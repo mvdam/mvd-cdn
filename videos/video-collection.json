@@ -1,0 +1,16 @@
+[
+  {
+    "id": "27826ac5-cad1-471b-83ed-ac5df9cec804",
+    "title": "Travel",
+    "playbackUrl": "https://raw.githubusercontent.com/mvdam/mvd-cdn/main/videos/example-video.mp4",
+    "type": "video/mp4",
+    "description": "Car driving on a coastal road. Video downloaded from https://www.pexels.com."
+  },
+  {
+    "id": "e29e9d9f-5d88-4229-8770-dd71f2265b5b",
+    "title": "Hawaii",
+    "playbackUrl": "https://raw.githubusercontent.com/mvdam/mvd-cdn/main/videos/example-video-2.mp4",
+    "type": "video/mp4",
+    "description": "Drone footage of Hawaii. Video downloaded from https://www.pexels.com."
+  }
+]
